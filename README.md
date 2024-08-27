@@ -37,4 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any feedback or suggestions for improvement, please feel free to reach out to me. Your input is greatly appreciated and will help improve this project.
 
 #### Author
-This project was created by [Your Name](https://www.linkedin.com/in/your-profile-link
+This project was created by [Pooja Dharshini.P](https://www.linkedin.com/in/pooja-dharshini-8ab5ba320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
